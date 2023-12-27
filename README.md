@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/top-net-developers-contributors-to-follow-a2237f97d5c8?sk=7f61a2e56a70255ed165a714522fc172" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow" />
 
 # Top .NET Developers & Contributors To Follow
 ### List of top .NET developers and contributors to connect with and follow to learn and gain new skills.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*K6ARFE0NkMg3Pwl4OikWow.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_be277fa35f134fbc976bdbb2bfa3c1ce~mv2.png">
 </p>
 
 <br/>
@@ -59,4 +59,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/top-net-developers-contributors-to-follow-a2237f97d5c8?sk=7f61a2e56a70255ed165a714522fc172
+[Article]: https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow
